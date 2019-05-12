@@ -1,2 +1,2 @@
-# reddit-network-exploration
+# Reddit network exploration
 Reddit network exploration
