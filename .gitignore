@@ -1,5 +1,8 @@
 #data/*
 
+EPIDEMIC-PROCESS-ON-SOCIAL-GRAPH/*
+robustness/*
+
 data/redditSubmissions.csv
 
 # Created by https://www.gitignore.io/api/macos,python,pycharm,jupyternotebook
