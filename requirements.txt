@@ -1,0 +1,7 @@
+notebook==6.5.1
+pandas==1.5.1
+matplotlib==3.6.1
+seaborn
+igraph==0.10.2
+scikit-learn
+networkx==2.8.7
